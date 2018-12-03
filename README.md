@@ -1,4 +1,4 @@
-# jteran3/docker
+# daycohost/docker-utils
 
 Docker utils
 
